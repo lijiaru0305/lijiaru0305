@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiaru
-- 👀 I’m just putting random rough work of mine here..
+- 👀 I’m just putting random rough work here..
 
 <!---
 lijiaru0305/lijiaru0305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
