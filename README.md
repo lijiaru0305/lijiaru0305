@@ -13,7 +13,8 @@ I primarily study theories in these topics using:
 Please check out the [my research page](https://lijiaru0305.github.io/) for more details.
 
 ## What I'm working on now
-- TBD
+- physics of warped disks
 
 ## Featured repositories
-- TBD
+
+- `Athena++ for warped disks`: My personal customized fork of the 3D hydrodynamics code [Athena++](https://github.com/PrincetonUniversity/athena), modified to study the warping of astrophysical disks. The code is good for analyzing steady-state warp structures, nonlinear hydrodynamics of warped disks, and disk breaking.
