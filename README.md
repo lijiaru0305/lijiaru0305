@@ -14,6 +14,7 @@ Please check out the [my research page](https://lijiaru0305.github.io/) for more
 
 ## What I'm working on now
 - physics of warped disks
+- Adam and other optimizers for gradient descent
 
 ## Featured repositories
 
